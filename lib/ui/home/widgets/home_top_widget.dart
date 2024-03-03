@@ -34,7 +34,7 @@ class HomeTopWidget extends StatelessWidget {
           ),
         ),
         Icon(
-          Icons.save,
+          Icons.save_outlined,
           color: AppColors.white,
         )
       ],
